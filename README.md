@@ -1,2 +1,2 @@
-# IPTV_CHANNELS
+# iptv
  
