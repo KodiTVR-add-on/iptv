@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="RTP 3 PT" tvg-name="RTP 3 PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/64-393818101410.png" group-title="News",RTP3 [not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="RTP 3 PT" tvg-name="RTP 3 PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/64-393818101410.png" group-title="News",RTP3 [PT]
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8|User-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+rv%3A47.0%29+Gecko%2F20100101+Firefox%2F47.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="News",CBN Rio
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8|User-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+rv%3A47.0%29+Gecko%2F20100101+Firefox%2F47.0
